@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cartão de Visita do Cauã</string>
+    <string name="imgdesc_twitter">Twitter Icon</string>
+    <string name="text_twitterhandle">\@cauapessoa</string>
+    <string name="imgdesc_instagram">Instagram Icon</string>
+    <string name="text_instahandle">\@caua539</string>
+    <string name="text_desc">Graduando em Engenharia de Software - UFG\n\nAnalista de Configuração de Software na Siagri</string>
+</resources>
